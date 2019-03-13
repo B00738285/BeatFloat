@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 15
-  productGUID: 00000000000000000000000000000000
+  productGUID: 61ea5119cfe34eb4887ea977f53dd15a
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -722,7 +722,7 @@ PlayerSettings:
     Collab: 0
     ErrorHub: 0
     Hub: 0
-    UNet: 0
+    UNet: 1
   luminIcon:
     m_Name: 
     m_ModelFolderPath: 
@@ -744,7 +744,7 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   cloudProjectId: acec644a-db87-4d85-b19f-750e942cd174
   framebufferDepthMemorylessMode: 0
-  projectName: 
+  projectName: Beat Float
   organizationId: gabrisdob
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
